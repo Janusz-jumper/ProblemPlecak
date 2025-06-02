@@ -1,0 +1,1 @@
+Program służy do rozwiązywania klasycznego nieskończonego problemu plecakowego. Pozwala znaleźć optymalne rozwiązanie polegające na doborze przedmiotów o określonej wadze i wartości, tak aby maksymalnie wykorzystać pojemność plecaka i uzyskać największą możliwą wartość.
